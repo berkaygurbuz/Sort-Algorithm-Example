@@ -1,0 +1,18 @@
+C:\Users\Berkay\source\repos\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe.config
+C:\Users\Berkay\source\repos\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.exe
+C:\Users\Berkay\source\repos\SortAlgorithm\SortAlgorithm\bin\Debug\SortAlgorithm.pdb
+C:\Users\Berkay\source\repos\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csprojAssemblyReference.cache
+C:\Users\Berkay\source\repos\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.Form1.resources
+C:\Users\Berkay\source\repos\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.Properties.Resources.resources
+C:\Users\Berkay\source\repos\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.GenerateResource.cache
+C:\Users\Berkay\source\repos\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.exe
+C:\Users\Berkay\source\repos\SortAlgorithm\SortAlgorithm\obj\Debug\SortAlgorithm.pdb
+C:\Users\Berkay\source\repos\SortAlgorithm- Berkay Gürbüz - Third Homework\SortAlgorithm\bin\Debug\SortAlgorithm.exe.config
+C:\Users\Berkay\source\repos\SortAlgorithm- Berkay Gürbüz - Third Homework\SortAlgorithm\bin\Debug\SortAlgorithm.exe
+C:\Users\Berkay\source\repos\SortAlgorithm- Berkay Gürbüz - Third Homework\SortAlgorithm\bin\Debug\SortAlgorithm.pdb
+C:\Users\Berkay\source\repos\SortAlgorithm- Berkay Gürbüz - Third Homework\SortAlgorithm\obj\Debug\SortAlgorithm.csprojAssemblyReference.cache
+C:\Users\Berkay\source\repos\SortAlgorithm- Berkay Gürbüz - Third Homework\SortAlgorithm\obj\Debug\SortAlgorithm.Form1.resources
+C:\Users\Berkay\source\repos\SortAlgorithm- Berkay Gürbüz - Third Homework\SortAlgorithm\obj\Debug\SortAlgorithm.Properties.Resources.resources
+C:\Users\Berkay\source\repos\SortAlgorithm- Berkay Gürbüz - Third Homework\SortAlgorithm\obj\Debug\SortAlgorithm.csproj.GenerateResource.cache
+C:\Users\Berkay\source\repos\SortAlgorithm- Berkay Gürbüz - Third Homework\SortAlgorithm\obj\Debug\SortAlgorithm.exe
+C:\Users\Berkay\source\repos\SortAlgorithm- Berkay Gürbüz - Third Homework\SortAlgorithm\obj\Debug\SortAlgorithm.pdb
